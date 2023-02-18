@@ -1,8 +1,3 @@
 # tgbot_bakhareva
-Телеграм бот для персонального фитнесс-тренера(https://t.me/Bakhareva_fit_bot)
-
-Написан на python с использованием библиотеки aiogram. Задеплоен на VDS сервер за 54руб/мес
-
-В репозитории отсутствует файл config.py с токеном для бота
-
-Осталось добавить логер и прикрутить вебхук
+The telegram BOT for personal fitness trainer Anastasia Bakhareva on python with aiogram lib
+(https://t.me/Bakhareva_fit_bot)
